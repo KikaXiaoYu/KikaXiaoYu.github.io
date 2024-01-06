@@ -1,7 +1,19 @@
 title: Minimal theme
+email: example@emali.org
+description: >
+  Minimal is a theme for GitHub Pages.
+baseurl: ""
+url: https://shinotzuyuxie.github.io/
+rss_url: /pages/feed.xml
+anthor: example
+
+filter: 'category'
+recent_num: 20
+
+twitter: example
+github:  example
+
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
-url: https://shinotzuyuxie.github.io/
+# theme: jekyll-theme-minimal
