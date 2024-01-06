@@ -13,7 +13,7 @@ recent_num: 20
 twitter: example
 github:  example
 
-logo: /assets/img/logo.png
-show_downloads: true
+# logo: /assets/img/logo.png
+show_downloads: false
 google_analytics:
 # theme: jekyll-theme-minimal
