@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ziyu XIE"
   avatar           : "profile.png"
-  bio              : "Good enough!"
+  bio              : "Undergraduate student at The Chinese University of Hong Kong, Shenzhen, majoring in computer engineering."
   location         : "Shenzhen, China"
-  employer         : "The Chinese University of Hong Kong, Shenzhen"
+  employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "shinoxiaoyu@outlook.com"
