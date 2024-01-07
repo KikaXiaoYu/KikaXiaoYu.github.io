@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "A Useless Programmer's Personal Website"
+title: "A Useless Programmer's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
