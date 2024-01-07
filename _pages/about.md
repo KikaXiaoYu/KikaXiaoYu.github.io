@@ -7,7 +7,3 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-A Useless Programmer's Personal Website
-======
-111
