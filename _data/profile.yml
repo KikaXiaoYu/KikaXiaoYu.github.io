@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Shino Ziyu XIE"
 
 positions:
-- name: Undergraduate Student in School of Science and Engineering
+- name: Undergraduate Student, Electronic and Information Engineering
 - logo: /assets/images/badges/cuhk-log-u.png
   name: B.Eng., The Chinese University of Hong Kong, Shenzhen (2025)
 
@@ -19,7 +19,7 @@ github: KikaXiaoYu
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Hi, I'm Shino Ziyu XIE, an undergraduate student in the School of Science and Engineering (SSE), the Chinese University of Hong Kong, Shenzhen (CUHKSZ). I'm majoring in Computer Engineering and interested in Machine Learning, Computer Vision, and Communication Systems.
+  Hello, I'm Shino Ziyu XIE, an undergraduate student at the School of Science and Engineering (SSE) at the Chinese University of Hong Kong, Shenzhen (CUHKSZ). I am majoring in Electronic and Information Engineering with a focus on the Computer Engineering stream. My academic interests lie in Machine Learning, Computer Vision, and Communication Systems.
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
