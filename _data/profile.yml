@@ -31,7 +31,7 @@ education:
   position: B.Eng. in Electronic and Information Engineering - Computer Engineering
   date: Sep. 2021 - Jul. 2025
 
-experience:
+teaching_experience:
 - name: Undergraduate Student Teaching Fellows
   logo: /assets/images/badges/cuhk-log-u.png
   position: Teaching Assistant for MAT1008 (Advanced Mathematics)
@@ -44,6 +44,17 @@ experience:
   logo: /assets/images/badges/cuhk-log-u.png
   position: Teaching Assistant for CSC3150 (Operating Systems)
   date: Jan. 2024 - May. 2024
+
+working_experience:
+- name: 1111
+  logo: /assets/images/badges/cuhk-log-u.png
+  position: Teaching Assistant for MAT1008 (Advanced Mathematics)
+  date: Sep. 2022 - Dec. 2022
+- name: 2222
+  logo: /assets/images/badges/cuhk-log-u.png
+  position: Teaching Assistant for CSC3050 (Computer Architecture)
+  date: Sep. 2023 - Dec. 2023
+
 
 awards:
 - name: The Mathematical Contest in Modeling (MCM), Honorable Mention Award
