@@ -19,7 +19,7 @@ github: KikaXiaoYu
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Hello, I'm Shino Ziyu XIE, an undergraduate student at the School of Science and Engineering (SSE) at the Chinese University of Hong Kong, Shenzhen (CUHKSZ). I am majoring in Electronic and Information Engineering with a focus on the Computer Engineering stream. My academic interests lie in Machine Learning, Computer Vision, and Communication Systems.
+  Hello, I'm Shino Ziyu XIE, an undergraduate student at the Chinese University of Hong Kong, Shenzhen (CUHKSZ), majoring in Electronic and Information Engineering. My academic interests lie in Machine Learning, Computer Vision, and Communication Systems.
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
@@ -46,26 +46,26 @@ teaching_experience:
   date: Jan. 2024 - May. 2024
 
 working_experience:
-- name:  Neuromorphic Circuit Bitline Load Limit Estimation
+- name: Undergraduate Student Research Intern
   logo: /assets/images/badges/cuhk-log-u.png
-  position: Research Intern
+  position: Neuromorphic Circuit Bitline Load Limit Estimation
   date: Aug. 2023 - Mar. 2024
-- name:  Federated Learning With Block Coordinate Descent
+- name: Undergraduate Student Research Intern
   logo: /assets/images/badges/cuhk-log-u.png
-  position: Research Intern
+  position: Federated Learning With Block Coordinate Descent
   date: Sep. 2023 - Dec. 2023
 
 
 awards:
-- name: The Mathematical Contest in Modeling (MCM), Honorable Mention Award
+- name: Mathematical Contest in Modeling (MCM), Honorable Mention Award
   date: 2024
 - name: "University Honor Awards: Excellent Student Award"
   date: 2023
 - name: (School of Science and Engineering) Dean's List Award
-  date: 2022
+  date: 2021, 2022
 - name: Academic Performance Scholarship, Class C
-  date: 2022
-- name: (School of Science and Engineering) Dean's List Award
-  date: 2021
-- name: Academic Performance Scholarship, Class C
-  date: 2021
+  date: 2021, 2022
+# - name: (School of Science and Engineering) Dean's List Award
+  # date: 2021
+# - name: Academic Performance Scholarship, Class C
+  # date: 2021
