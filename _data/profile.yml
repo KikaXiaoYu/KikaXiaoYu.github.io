@@ -46,13 +46,13 @@ teaching_experience:
   date: Jan. 2024 - May. 2024
 
 working_experience:
-- name: 1111
+- name:  Neuromorphic Circuit Bitline Load Limit Estimation
   logo: /assets/images/badges/cuhk-log-u.png
-  position: Teaching Assistant for MAT1008 (Advanced Mathematics)
-  date: Sep. 2022 - Dec. 2022
-- name: 2222
+  position: Research Intern
+  date: Aug. 2023 - Mar. 2024
+- name:  Federated Learning With Block Coordinate Descent
   logo: /assets/images/badges/cuhk-log-u.png
-  position: Teaching Assistant for CSC3050 (Computer Architecture)
+  position: Research Intern
   date: Sep. 2023 - Dec. 2023
 
 
