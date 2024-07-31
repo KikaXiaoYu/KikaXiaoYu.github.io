@@ -52,11 +52,13 @@ working_experience:
   date: Jul. 2024 - Present
 - name: Federated Learning Research Intern
   logo: /assets/images/badges/cuhk-log-u.png
-  position: "Topic: 'Federated Learning With Block Coordinate Descent'. Apply the block coordinate descent method (BCD) as the local optimizer to the training of federated learning in order to achieve better performance"
+  position: "Topic: 'Federated Learning With Block Coordinate Descent'. "
+  # Apply the block coordinate descent method (BCD) as the local optimizer to the training of federated learning in order to achieve better performance"
   date: Sep. 2023 - Dec. 2023
 - name: Neuromorphic Circuit Research Intern
   logo: /assets/images/badges/cuhk-log-u.png
-  position: "Topic: 'Neuromorphic Circuit Bitline Load Limit Estimation'. Estimated the limit of bitline load in terms of numbers of synapses for the neuromorphic circuit based on phase-change-memory (PCM) under various scaling technology nodes"
+  position: "Topic: 'Neuromorphic Circuit Bitline Load Limit Estimation'."
+  # Estimated the limit of bitline load in terms of numbers of synapses for the neuromorphic circuit based on phase-change-memory (PCM) under various scaling technology nodes"
   date: Aug. 2023 - Mar. 2024
 
 
