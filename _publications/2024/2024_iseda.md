@@ -20,7 +20,7 @@ authors:
   - Yihan Chen#
   - Lining Zhang#
 links:
-    Paper: https://www.eda2.com/iseda/ISEDA_2024_Conference_Program.pdf
+    # Paper: https://www.eda2.com/iseda/ISEDA_2024_Conference_Program.pdf
 #   Code: https://github.com/luost26/academic-homepage
-#   Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+    Website: https://www.eda2.com/iseda/ISEDA_2024_Conference_Program.pdf
 ---
