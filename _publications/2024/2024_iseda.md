@@ -2,9 +2,9 @@
 title:          "Impacts of Parasitic Effects on PCM-based Neuromorphic Circuits under Advanced Technology Nodes"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
-pub:            "International Symposium of EDA (ISEDA)"
+pub:            "2nd International Symposium of Electronics Design Automation (ISEDA)"
 # pub_pre:        "Submitted to "
-pub_post:       ' Under review.'
+# pub_post:       ' Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
@@ -20,7 +20,7 @@ authors:
   - Yihan Chen#
   - Lining Zhang#
 links:
-    # Paper: https://www.eda2.com/iseda/ISEDA_2024_Conference_Program.pdf
+    Paper: https://ieeexplore.ieee.org/abstract/document/10617774
 #   Code: https://github.com/luost26/academic-homepage
-    Website: https://www.eda2.com/iseda/ISEDA_2024_Conference_Program.pdf
+    # Website: https://www.eda2.com/iseda/ISEDA_2024_Conference_Program.pdf
 ---
