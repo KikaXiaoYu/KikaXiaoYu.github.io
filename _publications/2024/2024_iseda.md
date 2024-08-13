@@ -20,7 +20,7 @@ authors:
   - Yihan Chen#
   - Lining Zhang#
 links:
-    Paper: https://ieeexplore.ieee.org/abstract/document/10617774
+    Paper Link: https://ieeexplore.ieee.org/abstract/document/10617774
 #   Code: https://github.com/luost26/academic-homepage
     # Website: https://www.eda2.com/iseda/ISEDA_2024_Conference_Program.pdf
 ---
