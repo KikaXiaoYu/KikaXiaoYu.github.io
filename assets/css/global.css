@@ -55,6 +55,16 @@ img.lazy {
     font-size: 100%;
 }
 
+.card-columns {
+    column-count: 2;
+    column-gap: 1rem;
+}
+
+.card {
+    display: inline-block;
+    width: 100%;
+}
+
 /* .email-text {
     font-family: Courier, monospace;
 } */
