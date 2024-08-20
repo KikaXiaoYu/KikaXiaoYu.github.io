@@ -71,13 +71,13 @@ img.lazy {
     gap: 1rem;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 992px) {
     .custom-grid {
         grid-template-columns: 1fr 1fr;
     }
 }
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
     .custom-grid {
         grid-template-columns: 1fr 1fr 1fr;
     }
@@ -87,7 +87,7 @@ img.lazy {
     .custom-grid {
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
-}
+} */
 
 .card {
     width: 100%;
