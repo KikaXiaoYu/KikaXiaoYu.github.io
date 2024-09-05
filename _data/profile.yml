@@ -63,9 +63,15 @@ working_experience:
 
 
 scholarships:
+- name: "CHUKSZ Excellent Student Award"
+  date: 2023
 - name: SSE Academic Performance Scholarship, Class C
   date: 2022
+- name: "SSE Dean's List Award"
+  date: 2022
 - name: SSE Academic Performance Scholarship, Class C
+  date: 2021
+- name: "SSE Dean's List Award"
   date: 2021
 - name: Muse Bowen II Scholarship (思廷博文奖学金II)
   date: 2021 - 2024
@@ -79,9 +85,4 @@ competition_awards:
   date: 2022
 
 personal_honors:
-- name: "Excellent Student Award, The Chinese University of Hong Kong, Shenzhen"
-  date: 2023
-- name: "Dean's List Award, School of Science and Engineering"
-  date: 2022
-- name: "Dean's List Award, School of Science and Engineering"
-  date: 2021
+
