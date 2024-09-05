@@ -62,16 +62,26 @@ working_experience:
   date: Aug. 2023 - Mar. 2024
 
 
-awards:
-- name: Mathematical Contest in Modeling (MCM), Honorable Mention Award
+scholarships:
+- name: SSE Academic Performance Scholarship, Class C
+  date: 2022
+- name: SSE Academic Performance Scholarship, Class C
+  date: 2021
+- name: Muse Bowen II Scholarship 思廷博文奖学金II
+  date: 2021-2024
+
+competition_awards:
+- name: Mathematical Contest in Modeling (MCM), Honorable Mention
   date: 2024
-- name: "University Honor Awards: Excellent Student Award"
+- name: MathorCup高校数学建模挑战赛--大数据竞赛 本科生组 贰等奖
+  date: 2022
+- name: 全国大学生数学建模竞赛 广东省分赛 叁等奖
+  date: 2022
+
+personal_honors:
+- name: "Excellent Student Award (The Chinese University of Hong Kong, Shenzhen)"
   date: 2023
-- name: (School of Science and Engineering) Dean's List Award
-  date: 2021, 2022
-- name: Academic Performance Scholarship, Class C
-  date: 2021, 2022
-# - name: (School of Science and Engineering) Dean's List Award
-  # date: 2021
-# - name: Academic Performance Scholarship, Class C
-  # date: 2021
+- name: "Dean's List Award (School of Science and Engineering)"
+  date: 2022
+- name: "Dean's List Award (School of Science and Engineering)"
+  date: 2021

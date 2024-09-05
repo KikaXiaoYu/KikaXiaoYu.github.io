@@ -25,12 +25,48 @@
                 </div>
                 {% endif %}
 
-                {% if site.data.profile.awards %}
+                {% if site.data.profile.scholarships %}
                 <div class="card border-0 shadow-sm bg-white mb-3">
                     <div class="card-body p-4">
-                        <h6>Honors & Awards</h6>
+                        <h6>Scholarship</h6>
                         <ul class="list small pl-3 mb-0">
-                            {% for item in site.data.profile.awards %}
+                            {% for item in site.data.profile.scholarships %}
+                            <li>
+                                <div class="d-flex">
+                                    <div>{{ item.name }}</div>
+                                    <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                </div>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                {% endif %}
+
+                {% if site.data.profile.competition_awards %}
+                <div class="card border-0 shadow-sm bg-white mb-3">
+                    <div class="card-body p-4">
+                        <h6>Competition Awards</h6>
+                        <ul class="list small pl-3 mb-0">
+                            {% for item in site.data.profile.competition_awards %}
+                            <li>
+                                <div class="d-flex">
+                                    <div>{{ item.name }}</div>
+                                    <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                </div>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                {% endif %}
+
+                {% if site.data.profile.personal_honors %}
+                <div class="card border-0 shadow-sm bg-white mb-3">
+                    <div class="card-body p-4">
+                        <h6>Personal Honors</h6>
+                        <ul class="list small pl-3 mb-0">
+                            {% for item in site.data.profile.personal_honors %}
                             <li>
                                 <div class="d-flex">
                                     <div>{{ item.name }}</div>
