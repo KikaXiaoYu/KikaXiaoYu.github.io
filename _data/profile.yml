@@ -66,6 +66,18 @@ researching_experience:
   date: Aug. 2023 - Mar. 2024
 
 
+working_experience:
+- name: OSA Student Journalists Association
+  dept: The Chinese University of Hong Kong, Shenzhen
+  logo: /assets/images/badges/cuhk-log-u.png
+  position: Senior Web Operator & Executive Editor
+  date: Sep. 2021 - Present
+- name: SSE Student Help Room
+  dept: The Chinese University of Hong Kong, Shenzhen
+  logo: /assets/images/badges/cuhk-log-u.png
+  position: Preceptor for CSC1001 and CSC1002 (Python courses)
+  date: Sep. 2023 - May. 2024
+
 
 scholarships:
 - name: "CHUKSZ Excellent Student Award"
@@ -89,5 +101,4 @@ competition_awards:
 - name: "National College Student Mathematical Modeling Competition, Guangdong Provincial Contest, Third Prize<br>(全国大学生数学建模竞赛  广东省分赛  叁等奖)"
   date: 2022
 
-personal_honors:
 
