@@ -30,6 +30,10 @@ education:
   logo: /assets/images/badges/cuhk-log-u.png
   position: B.Eng. in Electronic and Information Engineering
   date: Sep. 2021 - Jul. 2025
+- name: Nanjing No.1 Middle School
+  logo: /assets/images/badges/njyz.png
+  position: Middle school student
+  date: Sep. 2018 - Jul. 2021
 
 teaching_experience:
 - name: Undergraduate Student Teaching Fellows
