@@ -76,11 +76,11 @@
                                 <div class="media-body">
                                     <div>{{ item.name }}</div>
                                     <div class="small">{{ item.dept }}</div>
-                                    <ul class="small pl-3">
+                                    <ul class="list small pl-3 mb-0">
                                         {% for position_item in item.positions %}
                                         <li class="d-flex">
                                             <div>{{ position_item.position }}</div>
-                                            <div class="mt-auto ml-auto no-break"><em>{{ position_item.date }}</em>
+                                            <div class="ml-auto mt-auto no-break"><em>{{ position_item.date }}</em>
                                             </div>
                                         </li>
                                         {% endfor %}
