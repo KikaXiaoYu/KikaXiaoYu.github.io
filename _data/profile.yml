@@ -71,11 +71,11 @@ scholarships:
   date: 2021 - 2024
 
 competition_awards:
-- name: Mathematical Contest in Modeling (MCM), Honorable Mention (美国大学生数学建模竞赛 贰等奖H奖)
+- name: "Mathematical Contest in Modeling (MCM), Honorable Mention\n(美国大学生数学建模竞赛 贰等奖H奖)"
   date: 2024
-- name: MathorCup College Mathematical Modeling Challenge - Big Data Competition, Undergraduate Group, Second Prize (MathorCup高校数学建模挑战赛--大数据竞赛 本科生组  贰等奖)
+- name: "MathorCup College Mathematical Modeling Challenge - Big Data Competition, Undergraduate Group, Second Prize\n(MathorCup高校数学建模挑战赛--大数据竞赛 本科生组  贰等奖)"
   date: 2022
-- name: National College Student Mathematical Modeling Competition, Guangdong Provincial Contest, Third Prize (全国大学生数学建模竞赛  广东省分赛  叁等奖)
+- name: "National College Student Mathematical Modeling Competition, Guangdong Provincial Contest, Third Prize\n(全国大学生数学建模竞赛  广东省分赛  叁等奖)"
   date: 2022
 
 personal_honors:
