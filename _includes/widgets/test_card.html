@@ -76,12 +76,20 @@
                                 <div class="media-body">
                                     <div>{{ item.name }}</div>
                                     <div class="small">{{ item.dept }}</div>
-                                    <ul class="list-unstyled pl-3 mb-0" style="list-style-type: disc;">
+                                    <ul class="list small pl-3 mb-0">
                                         {% for position_item in item.positions %}
                                         <li class="d-flex">
                                             <div>{{ position_item.position }}</div>
                                             <div class="ml-auto mt-auto no-break"><em>{{ position_item.date }}</em>
                                             </div>
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                    <ul class="list small pl-3 mb-0">
+                                        {% for item in site.data.profile.competition_awards %}
+                                        <li class="d-flex">
+                                            <div>{{ item.name }}</div>
+                                            <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
                                         </li>
                                         {% endfor %}
                                     </ul>
@@ -92,7 +100,6 @@
                     </div>
                 </div>
                 {% endif %}
-
 
                 {% if site.data.profile.researching_experience %}
                 <div class="card border-0 shadow-sm bg-white mb-3">
