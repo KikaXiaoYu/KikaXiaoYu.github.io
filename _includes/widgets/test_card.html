@@ -76,20 +76,12 @@
                                 <div class="media-body">
                                     <div>{{ item.name }}</div>
                                     <div class="small">{{ item.dept }}</div>
-                                    <ul class="list small pl-3 mb-0">
+                                    <ul class="list pl-3 mb-0">
                                         {% for position_item in item.positions %}
                                         <li class="d-flex">
                                             <div>{{ position_item.position }}</div>
                                             <div class="ml-auto mt-auto no-break"><em>{{ position_item.date }}</em>
                                             </div>
-                                        </li>
-                                        {% endfor %}
-                                    </ul>
-                                    <ul class="list small pl-3 mb-0">
-                                        {% for item in site.data.profile.competition_awards %}
-                                        <li class="d-flex">
-                                            <div>{{ item.name }}</div>
-                                            <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
                                         </li>
                                         {% endfor %}
                                     </ul>
