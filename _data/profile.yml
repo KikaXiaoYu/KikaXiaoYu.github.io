@@ -56,13 +56,19 @@ researching_experience:
 #   logo: /assets/images/badges/cuhk-log-u.png
 #   position: "Topic: 'Attempts and explorations in semantic segmentation of images'."
 #   date: Jul. 2024 - Present
-- name: Federated Learning Research Intern
+- name: ERG4901 Capstone Project Course
+  dept: The Chinese University of Hong Kong, Shenzhen
+  logo: /assets/images/badges/cuhk-log-u.png
+  position: "Topic: 'Coverage Analysis for Ground to Air Communications in 5G'. "
+  # Apply the block coordinate descent method (BCD) as the local optimizer to the training of federated learning in order to achieve better performance"
+  date: Sep. 2024 - Present
+- name: ERG2081 Independent Study Course
   dept: The Chinese University of Hong Kong, Shenzhen
   logo: /assets/images/badges/cuhk-log-u.png
   position: "Topic: 'Federated Learning With Block Coordinate Descent'. "
   # Apply the block coordinate descent method (BCD) as the local optimizer to the training of federated learning in order to achieve better performance"
   date: Sep. 2023 - Dec. 2023
-- name: Neuromorphic Circuit Research Intern
+- name: Undergraduate Research Assistant
   dept: The Chinese University of Hong Kong, Shenzhen
   logo: /assets/images/badges/cuhk-log-u.png
   position: "Topic: 'Neuromorphic Circuit Bitline Load Limit Estimation'."
@@ -84,31 +90,31 @@ working_experience:
 
 
 scholarships:
-- name: "SSE, Dean's List Award"
-  date: 2023
-- name: "CHUKSZ, Excellent Student Award"
-  date: 2023
-- name: SSE, Academic Performance Scholarship, Class C
-  date: 2022
-- name: "SSE, Dean's List Award"
-  date: 2022
-- name: SSE, Academic Performance Scholarship, Class C
-  date: 2021
-- name: "SSE, Dean's List Award"
-  date: 2021
-- name: Muse, Bowen II Scholarship 
+- name: "(2023-24) School of Science and Engineering - Dean's List Award"
+  date: Sep. 2024
+- name: "(2022-23) The Chinese University of Hong Kong, Shenzhen - Excellent Student Award"
+  date: Jan. 2024
+# - name: School of Science and Engineering, Academic Performance Scholarship, Class C
+#   date: 2022
+- name: "(2022-23) School of Science and Engineering - Dean's List Award"
+  date: Sep. 2023
+# - name: SSE, Academic Performance Scholarship, Class C
+#   date: 2021
+- name: "(2021-22) School of Science and Engineering - Dean's List Award"
+  date: Sep. 2022
+# - name: Muse, Bowen II Scholarship 
 # (思廷博文奖学金II)
-  date: 2021 - 2024
+  # date: 2021 - 2024
 
 competition_awards:
-- name: "Mathematical Contest in Modeling (MCM), Honorable Mention"
+- name: "(2024) Mathematical Contest in Modeling (MCM), Honorable Mention"
 # <br>(美国大学生数学建模竞赛 贰等奖H奖)"
-  date: 2024
-- name: "MathorCup College Mathematical Modeling Challenge - Big Data Competition, Undergraduate Group, Second Prize"
+  date: May. 2024
+- name: "(2022) MathorCup College Mathematical Modeling Challenge - Big Data Competition, Undergraduate Group, Second Prize"
 # <br>(MathorCup高校数学建模挑战赛--大数据竞赛 本科生组  贰等奖)"
-  date: 2022
-- name: "National College Student Mathematical Modeling Competition, Guangdong Provincial Contest, Third Prize"
+  date: Mar. 2023
+- name: "(2022) National College Student Mathematical Modeling Competition, Guangdong Provincial Contest, Third Prize"
 # <br>(全国大学生数学建模竞赛  广东省分赛  叁等奖)"
-  date: 2022
+  date: Mar. 2023
 
 
