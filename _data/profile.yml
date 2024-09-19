@@ -56,13 +56,13 @@ researching_experience:
 #   logo: /assets/images/badges/cuhk-log-u.png
 #   position: "Topic: 'Attempts and explorations in semantic segmentation of images'."
 #   date: Jul. 2024 - Present
-- name: ERG4901 Capstone Project Course
+- name: ERG4901 SSE Capstone Project
   dept: The Chinese University of Hong Kong, Shenzhen
   logo: /assets/images/badges/cuhk-log-u.png
   position: "Topic: 'Coverage Analysis for Ground to Air Communications in 5G'. "
   # Apply the block coordinate descent method (BCD) as the local optimizer to the training of federated learning in order to achieve better performance"
   date: Sep. 2024 - Present
-- name: ERG2081 Independent Study Course
+- name: ERG2081 Independent Study Project
   dept: The Chinese University of Hong Kong, Shenzhen
   logo: /assets/images/badges/cuhk-log-u.png
   position: "Topic: 'Federated Learning With Block Coordinate Descent'. "
