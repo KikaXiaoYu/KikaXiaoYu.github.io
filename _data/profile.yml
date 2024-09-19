@@ -1,6 +1,6 @@
-primary_name: "Ziyu XIE"
+primary_name: "Shino Ziyu XIE"
 secondary_name: ""
-navbar_name: "Ziyu XIE"
+navbar_name: "Shino Ziyu XIE"
 
 positions:
 - name: Undergraduate Student, Electronic and Information Engineering
@@ -19,7 +19,7 @@ github: KikaXiaoYu
 orcid: 0009-0002-3920-3932
 
 short_bio: >-
-  Hello, I'm Ziyu XIE, an undergraduate student at the Chinese University of Hong Kong, Shenzhen (CUHKSZ), majoring in Electronic and Information Engineering. My academic interests lie in Machine Learning, Optimization, and Communication Systems.
+  Hello, I'm Shino Ziyu XIE, an undergraduate student at the Chinese University of Hong Kong, Shenzhen (CUHKSZ), majoring in Electronic and Information Engineering. My academic interests lie in Machine Learning, Optimization, and Communication Systems.
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
@@ -73,7 +73,7 @@ researching_experience:
   logo: /assets/images/badges/cuhk-log-u.png
   position: "Topic: 'Neuromorphic Circuit Bitline Load Limit Estimation'."
   # Estimated the limit of bitline load in terms of numbers of synapses for the neuromorphic circuit based on phase-change-memory (PCM) under various scaling technology nodes"
-  date: Aug. 2023 - Mar. 2024
+  date: Jun. 2022 - Aug. 2022
 
 
 working_experience:
