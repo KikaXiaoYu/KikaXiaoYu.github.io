@@ -27,17 +27,25 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: The Chinese University of Hong Kong, Shenzhen
-  logo: /assets/images/badges/cuhk-log-u.png
-  position: B.Eng. in Electronic and Information Engineering
+  dept: School of Science and Engineering
   date: Sep. 2021 - Jul. 2025
+  logo: /assets/images/badges/cuhk-log-u.png
+  positions:
+  - position: B.Eng. in Electronic and Information Engineering
+  - position: "Substream: Computer Engineering"
+
 - name: Nanjing Number One Middle School
-  logo: /assets/images/badges/njyz.png
-  position: A young high school student
+  dept: Class of Physics, Geography, and Biology
   date: Sep. 2018 - Jul. 2021
+  logo: /assets/images/badges/njyz.png
+  positions: 
+  - position: President of the Calligraphy Club
+  - position: Chinese Class Representative
 
 teaching_experience:
 - name: Undergraduate Student Teaching Fellows
   dept: The Chinese University of Hong Kong, Shenzhen
+  date: Sep. 2022 - May. 2024
   logo: /assets/images/badges/cuhk-log-u.png
   positions:
   - position: Teaching Assistant, CSC3150 (Operating Systems)
@@ -46,46 +54,43 @@ teaching_experience:
     date: Sep. 2023 - Dec. 2023
   - position: Teaching Assistant, MAT1008 (Advanced Mathematics)
     date: Sep. 2022 - Dec. 2022
-# - name: Undergraduate Student Teaching Fellows
-#   logo: /assets/images/badges/cuhk-log-u.png
-# - name: Undergraduate Student Teaching Fellows
-#   logo: /assets/images/badges/cuhk-log-u.png
 
 researching_experience:
-# - name: Computer Vision Research Intern
-#   logo: /assets/images/badges/cuhk-log-u.png
-#   position: "Topic: 'Attempts and explorations in semantic segmentation of images'."
-#   date: Jul. 2024 - Present
 - name: ERG4901 SSE Capstone Project
   dept: The Chinese University of Hong Kong, Shenzhen
-  logo: /assets/images/badges/cuhk-log-u.png
-  position: "Topic: 'Coverage Analysis for Ground to Air Communications in 5G'. "
-  # Apply the block coordinate descent method (BCD) as the local optimizer to the training of federated learning in order to achieve better performance"
   date: Sep. 2024 - Present
+  logo: /assets/images/badges/cuhk-log-u.png
+  positions: 
+  - position: "Topic: 'Coverage Analysis for Ground to Air Communications in 5G'. "
+
 - name: ERG2081 Independent Study Project
   dept: The Chinese University of Hong Kong, Shenzhen
-  logo: /assets/images/badges/cuhk-log-u.png
-  position: "Topic: 'Federated Learning With Block Coordinate Descent'. "
-  # Apply the block coordinate descent method (BCD) as the local optimizer to the training of federated learning in order to achieve better performance"
   date: Sep. 2023 - Dec. 2023
+  logo: /assets/images/badges/cuhk-log-u.png
+  positions:
+  - position: "Topic: 'Federated Learning With Block Coordinate Descent'. "
+
 - name: Undergraduate Research Assistant
   dept: The Chinese University of Hong Kong, Shenzhen
-  logo: /assets/images/badges/cuhk-log-u.png
-  position: "Topic: 'Neuromorphic Circuit Bitline Load Limit Estimation'."
-  # Estimated the limit of bitline load in terms of numbers of synapses for the neuromorphic circuit based on phase-change-memory (PCM) under various scaling technology nodes"
   date: Jun. 2022 - Aug. 2022
+  logo: /assets/images/badges/cuhk-log-u.png
+  positions:
+  - position: "Topic: 'Neuromorphic Circuit Bitline Load Limit Estimation'."
 
 
 working_experience:
 - name: OSA Student Journalists Association
   dept: The Chinese University of Hong Kong, Shenzhen
-  logo: /assets/images/badges/cuhk-log-u.png
-  position: Senior Web Operator & Executive Editor
   date: Sep. 2021 - Present
+  logo: /assets/images/badges/cuhk-log-u.png
+  positions:
+  - position: Senior Web Operator & Executive Editor
+
 - name: SSE Student Help Room
   dept: The Chinese University of Hong Kong, Shenzhen
   logo: /assets/images/badges/cuhk-log-u.png
-  position: Preceptor for CSC1001 and CSC1002 (Python courses)
+  positions:
+  - position: Preceptor for CSC1001 and CSC1002 (Python courses)
   date: Sep. 2023 - May. 2024
 
 
