@@ -13,10 +13,10 @@
                                     class="mr-1 mt-1">
                                 <div class="media-body">
                                     <div>{{ item.name }}</div>
-                                    <div class="small">{{ item.dept }} <em>{{ item.date }}</em></div>
+                                    <div class="small">{{ item.dept }}</div>
                                     <div class="small d-flex">
                                         <div>{{ item.position }}</div>
-                                        <div class="ml-auto mt-auto no-break"><em>{{ item.position_date }}</em></div>
+                                        <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
                                     </div>
                                 </div>
                             </li>
@@ -30,14 +30,12 @@
                 <div class="card border-0 shadow-sm bg-white mb-3">
                     <div class="card-body p-4">
                         <h6>Scholarships & Honors</h6>
-                        <ul class="list-unstyled mb-0">
+                        <ul class="list small pl-3 mb-0">
                             {% for item in site.data.profile.scholarships %}
-                            <li class="media mb-1">
-                                <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;"
-                                    class="mr-1 mt-1">
-                                <div class="media-body">
+                            <li>
+                                <div class="d-flex">
                                     <div>{{ item.name }}</div>
-                                    <div class="small">{{ item.dept }} <em>{{ item.date }}</em></div>
+                                    <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
                                 </div>
                             </li>
                             {% endfor %}
@@ -50,14 +48,12 @@
                 <div class="card border-0 shadow-sm bg-white mb-3">
                     <div class="card-body p-4">
                         <h6>Competition Awards</h6>
-                        <ul class="list-unstyled mb-0">
+                        <ul class="list small pl-3 mb-0">
                             {% for item in site.data.profile.competition_awards %}
-                            <li class="media mb-1">
-                                <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;"
-                                    class="mr-1 mt-1">
-                                <div class="media-body">
+                            <li>
+                                <div class="d-flex">
                                     <div>{{ item.name }}</div>
-                                    <div class="small">{{ item.dept }} <em>{{ item.date }}</em></div>
+                                    <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
                                 </div>
                             </li>
                             {% endfor %}
@@ -65,6 +61,8 @@
                     </div>
                 </div>
                 {% endif %}
+
+
 
                 {% if site.data.profile.teaching_experience %}
                 <div class="card border-0 shadow-sm bg-white mb-3">
@@ -77,13 +75,14 @@
                                     class="mr-1 mt-1">
                                 <div class="media-body">
                                     <div>{{ item.name }}</div>
-                                    <div class="small">{{ item.dept }} <em>{{ item.date }}</em></div>
+                                    <div class="small">{{ item.dept }}</div>
                                     <ul class="small pl-3 mb-0" style="list-style-type: disc;">
                                         {% for position_item in item.positions %}
                                         <li>
                                             <div class="d-flex">
                                                 <div>{{ position_item.position }}</div>
-                                                <div class="ml-auto mt-auto no-break"><em>{{ position_item.date }}</em></div>
+                                                <div class="ml-auto mt-auto no-break"><em>{{ position_item.date }}</em>
+                                                </div>
                                             </div>
                                         </li>
                                         {% endfor %}
@@ -107,10 +106,10 @@
                                     class="mr-1 mt-1">
                                 <div class="media-body">
                                     <div>{{ item.name }}</div>
-                                    <div class="small">{{ item.dept }} <em>{{ item.date }}</em></div>
+                                    <div class="small">{{ item.dept }}</div>
                                     <div class="small d-flex">
                                         <div>{{ item.position }}</div>
-                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                        <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
                                     </div>
                                 </div>
                             </li>
@@ -131,10 +130,10 @@
                                     class="mr-1 mt-1">
                                 <div class="media-body">
                                     <div>{{ item.name }}</div>
-                                    <div class="small">{{ item.dept }} <em>{{ item.date }}</em></div>
+                                    <div class="small">{{ item.dept }}</div>
                                     <div class="small d-flex">
                                         <div>{{ item.position }}</div>
-                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                        <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
                                     </div>
                                 </div>
                             </li>
