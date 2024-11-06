@@ -19,7 +19,7 @@ github: KikaXiaoYu
 orcid: 0009-0002-3920-3932
 
 short_bio: >-
-  Hello, I'm Shino Ziyu XIE, a senior undergraduate student at the Chinese University of Hong Kong, Shenzhen (CUHKSZ), majoring in Electronic and Information Engineering. My academic interests lie in Machine Learning, Federated Learning, Optimization, and Communication Systems.
+  Hello, I'm <em>Shino Ziyu XIE</em>, a senior undergraduate student at <strong>The Chinese University of Hong Kong, Shenzhen (CUHKSZ)</strong>, majoring in <strong>Electronic and Information Engineering</strong>. My academic interests lie in <em>Machine Learning</em>, <em>Federated Learning</em>, <em>Optimization</em>, and <em>Communication Systems</em>.
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
@@ -31,58 +31,71 @@ education:
   date: Sep. 2021 - Jul. 2025
   logo: /assets/images/badges/cuhk-log-u.png
   positions:
-  - position: B.Eng. in Electronic and Information Engineering (EIE)
+  - position: <strong>B.Eng. in Electronic and Information Engineering (EIE)</strong>
   - position: "Substream: Computer Engineering (CE)"
   # - position: (2023-24) SSE, Academic Performance Scholarship, Class x
   #   date: Dec. 2024 (expected)
 
-  - position: "(2023-24) Muse MLA: Whole Person Development Star - Gold"
-    date: Nov. 2024
-  - position: (2022-23) CUHKSZ, Excellent Student Award
-    date: Jan. 2024
-  - position: (2022-23, 21-22) SSE, AP Scholarship, Class C
-    date: Dec. 2023 / 2022
+#   - position: "(2023-24) Muse MLA: Whole Person Development Star - Gold"
+#     date: Nov. 2024
+#   - position: (2022-23) CUHKSZ, Excellent Student Award
+#     date: Jan. 2024
+#   - position: (2022-23, 21-22) SSE, AP Scholarship, Class C
+    # date: Dec. 2023 / 2022
   # - position: (2023-24) CUHKSZ, Excellent Student Award
   #   date: Jan. 2025 (expected)
-  - position: (2023-24, 22-23, 21-22) SSE, Dean's List Award
-    date: Sep. 2024 / 2023 / 2022
-  - position: (2021-24) Muse College, Bowen II Scholarship
-    date: Sep. 2021
-# - name: Nanjing Number One Middle School
-#   dept: Class of Physics, Geography, and Biolog
-#   date: Sep. 2018 - Jul. 2021
-#   logo: /assets/images/badges/njyz.png
-#   positions: 
-#   - position: President of the Calligraphy Club
-#   - position: Chinese Class Representative
+#   - position: (2023-24, 22-23, 21-22) SSE, Dean's List Award
+#     date: Sep. 2024 / 2023 / 2022
+#   - position: (2021-24) Muse College, Bowen II Scholarship
+#     date: Sep. 2021
 
+
+others:
+- name: Nanjing Number One Middle School
+  dept: Class of Physics, Geography, and Biology
+  date: Sep. 2018 - Jul. 2021
+  logo: /assets/images/badges/njyz.png
+  positions: 
+  - position: President of the Calligraphy Club
+  - position: Chinese Class Representative
 
 scholarships:
 # - name: Scholarships
-  
-# - name: Honors and Awards
 #   positions:
-#   - position: "(2023-24) Muse College MLA: Whole Person Development Star"
-#     date: Nov. 2024
-#   # - position: (2023-24) CUHKSZ, Excellent Student Award
-#   #   date: Jan. 2025 (expected)
-#   - position: (2022-23) CUHKSZ, Excellent Student Award
-#     date: Jan. 2024
-#   - position: (2023-24) SSE, Dean's List Award
-#     date: Sep. 2024
-#   - position: (2022-23) SSE, Dean's List Award
-#     date: Sep. 2023
-#   - position: (2021-22) SSE, Dean's List Award
-#     date: Sep. 2022
-- name:
+  
+- name: Honors
   positions:
-  - position: "(2024 USA) Mathematical Contest In Modeling (MCM), Honorable Mention [The Consortium for Mathematics and Its Applications (COMAP)]"
+  - position: "(2023-24) MLA: Whole-Person Development Star - Gold"
+    date: Nov. 2024
+  # - position: (2023-24) CUHKSZ, Excellent Student Award
+  #   date: Jan. 2025 (expected)
+  - position: (2023-24) SSE, Dean's List Award
+    date: Sep. 2024
+  - position: (2022-23) CUHKSZ, Excellent Student Award
+    date: Jan. 2024
+  - position: (2022-23) SSE, Dean's List Award
+    date: Sep. 2023
+  - position: (2021-22) SSE, Dean's List Award
+    date: Sep. 2022
+- name: Scholarships
+  positions:
+  - position: (2022-23) SSE, AP Scholarship, Class C
+    date: Dec. 2023
+  - position: (2021-22) SSE, AP Scholarship, Class C
+    date: Dec. 2022
+  - position: (2021-24) Muse College, Bowen II Scholarship
+    date: Sep. 2021
+
+competitions:
+- name: Competition Awards
+  positions:
+  - position: "(2024 USA) Mathematical Contest In Modeling (MCM), <strong>Honorable Mention</strong>, <em>The Consortium for Mathematics and Its Applications (COMAP)</em>"
 #    // <2024年美國大學生數學建模競賽, H獎, [美國數學及其應用聯合會]>"
     date: May. 2024
-  - position: "(2022) MathorCup Undergraduate Mathematical Modeling Challenge, Second Prize, [Chinese Society of Optimization, Overall Planning and Economic Mathematics]"
+  - position: "(2022) MathorCup Undergraduate Mathematical Modeling Challenge, <strong>Second Prize</strong>, <em>Chinese Society of Optimization, Overall Planning and Economic Mathematics</em>"
 #    // <2022年MathorCup高校數學建模挑戰賽, 二等獎, [中國優選法統籌法與經濟數學研究會]>"
     date: Mar. 2023
-  - position: "(2022) China Undergraduate Mathematical Contest in Modeling, Guangdong Provincial Contest, Third Prize, [China Society for Industrial and Applied Mathematics (CSIAM)]" 
+  - position: "(2022) China Undergraduate Mathematical Contest in Modeling, Guangdong Provincial Contest, <strong>Third Prize</strong>, <em>China Society for Industrial and Applied Mathematics (CSIAM)</em>" 
 #   // <2022年全國大學生數學建模競賽, 廣東省分賽, 三等獎, [中國工業與應用數學學會]>"
     date: Mar. 2023
 
@@ -93,44 +106,44 @@ researching_experience:
   date: Sep. 2024 - Present
   logo: /assets/images/badges/cuhk-log-u.png
   positions: 
-  - position: "Topic: 'Coverage Analysis for Ground to Air Communications in 5G'. "
+  - position: "Topic: '<strong>Coverage Analysis for Ground to Air Communications in 5G.</strong>' "
 - name: ERG2081 Independent Study Project
   dept: The Chinese University of Hong Kong, Shenzhen
   date: Sep. 2023 - Dec. 2023
   logo: /assets/images/badges/cuhk-log-u.png
   positions:
-  - position: 'Topic: "Implementing a federated learning frame with a Block Coordinate Descent (BCD) optimizer." Reduced communication costs by integrating the BCD algorithm into the update process of federated learning. Conducted a comparative analysis of the BCD algorithm versus the traditional FedAvg algorithm.'
+  - position: 'Topic: "<strong>Implementing a federated learning frame with a Block Coordinate Descent (BCD) optimizer.</strong>" Reduced communication costs by integrating the BCD algorithm into the update process of federated learning. Conducted a comparative analysis of the BCD algorithm versus the traditional FedAvg algorithm.'
 - name: Undergraduate Research Assistant
   dept: The Chinese University of Hong Kong, Shenzhen
   date: Jun. 2022 - Aug. 2022
   logo: /assets/images/badges/cuhk-log-u.png
   positions:
-  - position: 'Topic: "Studying the impact of parasitic capacitance on phase-change-memory based neuromorphic circuits." Analyzed the effects of parasitic capacitance on synaptic firing and weight updating. Estimated bitline load adhering to the design constraints derived from parasitic capacitance effects.'
+  - position: 'Topic: "<strong>Studying the impact of parasitic capacitance on phase-change-memory based neuromorphic circuits.</strong>" Analyzed the effects of parasitic capacitance on synaptic firing and weight updating. Estimated bitline load adhering to the design constraints derived from parasitic capacitance effects.'
 
 working_experience:
 - name: OSA Student Journalists Association
   dept: The Chinese University of Hong Kong, Shenzhen
   logo: /assets/images/badges/cuhk-log-u.png
   positions:
-  - position: Executive Editor of Website Operations Group
+  - position: <strong>Executive Editor</strong> of Website Operations Group
     date: Sep. 2021 - Present
 - name: SSE Student Help Room Preceptor
   dept: The Chinese University of Hong Kong, Shenzhen
   logo: /assets/images/badges/cuhk-log-u.png
   positions:
-  - position: Preceptor for CSC1002 (Python Laboratory)
+  - position: <strong>Preceptor</strong> for CSC1002 (Python Laboratory)
     date: Jan. 2024 - May. 2024
-  - position: Preceptor for CSC1001 (Introduction to Python)
+  - position:  <strong>Preceptor</strong> for CSC1001 (Introduction to Python)
     date: Sep. 2023 - Dec. 2023
 - name: Undergraduate Student Teaching Fellows
   dept: The Chinese University of Hong Kong, Shenzhen
   logo: /assets/images/badges/cuhk-log-u.png
   positions:
-  - position: Teaching Assistant, CSC3150 (Operating Systems)
+  - position: <strong>Teaching Assistant</strong>, CSC3150 (Operating Systems)
     date: Jan. 2024 - May. 2024
-  - position: Teaching Assistant, CSC3050 (Computer Architecture)
+  - position: <strong>Teaching Assistant</strong>, CSC3050 (Computer Architecture)
     date: Sep. 2023 - Dec. 2023
-  - position: Teaching Assistant, MAT1008 (Advanced Mathematics)
+  - position: <strong>Teaching Assistant</strong>, MAT1008 (Advanced Mathematics)
     date: Sep. 2022 - Dec. 2022
 
 

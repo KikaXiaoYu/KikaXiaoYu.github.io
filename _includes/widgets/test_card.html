@@ -37,12 +37,12 @@
                 </div>
                 {% endif %}
 
-                {% if site.data.profile.scholarships %}
+                {% if site.data.profile.others %}
                 <div class="card border-0 shadow-sm bg-white mb-3">
                     <div class="card-body p-4">
-                        <h6>Scholarships, Honors, and Awards</h6>
+                        <h6>Education Background</h6>
                         <ul class="list-unstyled mb-0">
-                            {% for item in site.data.profile.scholarships %}
+                            {% for item in site.data.profile.others %}
                             <li class="media mb-1">
                                 {% if item.logo %}
                                 <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">
@@ -70,6 +70,8 @@
                     </div>
                 </div>
                 {% endif %}
+
+                
 
                 <!-- {% if site.data.profile.competition_awards %}
                 <div class="card border-0 shadow-sm bg-white mb-3">
@@ -179,6 +181,74 @@
                         <h6>Working Experience</h6>
                         <ul class="list-unstyled mb-0">
                             {% for item in site.data.profile.working_experience %}
+                            <li class="media mb-1">
+                                {% if item.logo %}
+                                <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">
+                                {% endif %}
+                                <div class="media-body">
+                                    <div>{{ item.name }}</div>
+                                    <div class="small d-flex">
+                                        <div>{{ item.dept }}</div>
+                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                    </div>
+                                    <ul class="small pl-3 mb-0" style="list-style-type: disc;">
+                                        {% for position_item in item.positions %}
+                                        <li>
+                                            <div class="d-flex">
+                                                <div>{{ position_item.position }}</div>
+                                                <div class="ml-auto mt-auto no-break"><em>{{ position_item.date }}</em></div>
+                                            </div>
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                {% endif %}
+
+                {% if site.data.profile.scholarships %}
+                <div class="card border-0 shadow-sm bg-white mb-3">
+                    <div class="card-body p-4">
+                        <h6>Scholarships and Honors</h6>
+                        <ul class="list-unstyled mb-0">
+                            {% for item in site.data.profile.scholarships %}
+                            <li class="media mb-1">
+                                {% if item.logo %}
+                                <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">
+                                {% endif %}
+                                <div class="media-body">
+                                    <div>{{ item.name }}</div>
+                                    <div class="small d-flex">
+                                        <div>{{ item.dept }}</div>
+                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                    </div>
+                                    <ul class="small pl-3 mb-0" style="list-style-type: disc;">
+                                        {% for position_item in item.positions %}
+                                        <li>
+                                            <div class="d-flex">
+                                                <div>{{ position_item.position }}</div>
+                                                <div class="ml-auto mt-auto no-break"><em>{{ position_item.date }}</em></div>
+                                            </div>
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                {% endif %}
+
+                {% if site.data.profile.competitions %}
+                <div class="card border-0 shadow-sm bg-white mb-3">
+                    <div class="card-body p-4">
+                        <h6>Competition Awards</h6>
+                        <ul class="list-unstyled mb-0">
+                            {% for item in site.data.profile.competitions %}
                             <li class="media mb-1">
                                 {% if item.logo %}
                                 <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">
