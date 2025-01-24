@@ -141,13 +141,15 @@ working_experience:
   positions:
   - position: <strong>Preceptor</strong> for CSC1002 (Python Laboratory)
     date: Jan. 2024 - May. 2024
-  - position:  <strong>Preceptor</strong> for CSC1001 (Introduction to Python)
+  - position:  <strong>Preceptor</strong> for CSC1001 (Intro. to Python)
     date: Sep. 2023 - Dec. 2023
 - name: Undergraduate Student Teaching Fellows
   dept: The Chinese University of Hong Kong, Shenzhen
   logo: /assets/images/badges/cuhk-log-u.png
   positions:
-  - position: <strong>Teaching Assistant</strong>, CSC3150 (Operating Systems)
+  - position: <strong>Teaching Assistant</strong>, CSC3170 (Database System)
+    date: Jan. 2025 - May. 2025
+  - position: <strong>Teaching Assistant</strong>, CSC3150 (Operating System)
     date: Jan. 2024 - May. 2024
   - position: <strong>Teaching Assistant</strong>, CSC3050 (Computer Architecture)
     date: Sep. 2023 - Dec. 2023
