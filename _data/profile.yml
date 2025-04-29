@@ -50,14 +50,16 @@ education:
 #     date: Sep. 2021
 
 
-others:
-- name: Nanjing Number One Middle School
-  dept: Class of Physics, Geography, and Biology
-  date: Sep. 2018 - Jul. 2021
-  logo: /assets/images/badges/njyz.png
-  positions: 
-  - position: President of the Calligraphy Club
-  - position: Chinese Class Representative
+# others:
+# - name: Nanjing Number One Middle School
+#   dept: Class of Physics, Geography, and Biology
+#   date: Sep. 2018 - Jul. 2021
+#   logo: /assets/images/badges/njyz.png
+#   positions: 
+#   - position: President of the Calligraphy Club
+#   - position: Chinese Class Representative
+
+
 
 scholarships:
 # - name: Scholarships
@@ -113,7 +115,7 @@ competitions:
 researching_experience:
 - name: ERG4901 SSE Capstone Project
   dept: The Chinese University of Hong Kong, Shenzhen
-  date: Sep. 2024 - Present
+  date: Sep. 2024 - Dec. 2024
   logo: /assets/images/badges/cuhk-log-u.png
   positions: 
   - position: "Topic: '<strong>Coverage Analysis for Ground to Air Communications in 5G.</strong>' "
@@ -136,7 +138,7 @@ working_experience:
   logo: /assets/images/badges/cuhk-log-u.png
   positions:
   - position: <strong>Executive Editor</strong> of Website Operations Group
-    date: Sep. 2021 - Present
+    date: Sep. 2021 - May. 2025
 - name: SSE Student Help Room Preceptor
   dept: The Chinese University of Hong Kong, Shenzhen
   logo: /assets/images/badges/cuhk-log-u.png
