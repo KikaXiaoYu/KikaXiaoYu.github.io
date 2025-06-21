@@ -93,7 +93,7 @@ img.lazy {
     column-gap: 1rem; /* 使用gap属性来调整所有方向的间距，包括row-gap和column-gap */
 }
 
-@media (min-width: 992px) {
+@media (min-width: 19992px) {
     .custom-grid {
         grid-template-columns: 1fr 1fr;
     }
