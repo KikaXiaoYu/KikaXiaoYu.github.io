@@ -1,6 +1,6 @@
-primary_name: "Christie Ziyu XIE"
+primary_name: "Zeno Ziyu XIE"
 secondary_name: ""
-navbar_name: "Christie Ziyu XIE"
+navbar_name: "Zeno Ziyu XIE"
 
 positions:
 - name: Senior Undergraduate Student, Electronic and Information Engineering
@@ -19,13 +19,20 @@ github: KikaXiaoYu
 orcid: 0009-0002-3920-3932
 
 short_bio: >-
-  Hello, I'm <em>Christie Ziyu XIE</em>, a senior undergraduate student at <strong>The Chinese University of Hong Kong, Shenzhen (CUHKSZ)</strong>, majoring in <strong>Electronic and Information Engineering</strong>. My academic interests lie in <em>Machine Learning</em>, <em>Federated Learning</em>, <em>Optimization</em>, and <em>Communication Systems</em>.
+  Hello, I'm <em>Zeno Ziyu XIE</em>, a senior undergraduate student at <strong>The Chinese University of Hong Kong, Shenzhen (CUHKSZ)</strong>, majoring in <strong>Electronic and Information Engineering</strong>. My academic interests lie in <em>Machine Learning</em>, <em>Federated Learning</em>, <em>Optimization</em>, and <em>Communication Systems</em>.
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
+- name: The Chinese University of Hong Kong, Shenzhen
+  dept: The Faculty of Engineering
+  date: Aug. 2025 - Present
+  logo: /assets/images/badges/cuhk-log-u.png
+  positions:
+  - position: <strong>Ph.D. in Information Engineering (IE)</strong>
+
 - name: The Chinese University of Hong Kong, Shenzhen
   dept: School of Science and Engineering (SSE)
   date: Sep. 2021 - Jul. 2025
