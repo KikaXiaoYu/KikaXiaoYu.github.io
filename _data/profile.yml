@@ -1,13 +1,13 @@
-primary_name: "Zeno Ziyu XIE"
+primary_name: "Ziyu (Zeno) XIE"
 secondary_name: ""
-navbar_name: "Zeno Ziyu XIE"
+navbar_name: "Ziyu XIE"
 
 positions:
-- name: Ph.D. Student, Information Engineering
+- name: Ph.D. Student in Information Engineering
 - logo: /assets/images/badges/cuhk-log-u.png
   name: "The Chinese University of Hong Kong (Year of Admin: 2025)"
 
-email: "ziyuxie@link.cuhk.edu.cn"
+email: "ziyuxie@link.cuhk.edu.hk"
 # cv_link: link-to-your-cv-file
 gscholar: tnXgC9oAAAAJ
 github: KikaXiaoYu
@@ -19,7 +19,7 @@ github: KikaXiaoYu
 orcid: 0009-0002-3920-3932
 
 short_bio: >-
-  Hello, I'm <em>Zeno Ziyu XIE</em>, a Ph.D. student at <strong>The Chinese University of Hong Kong (CUHK)</strong>, majoring in <strong>Information Engineering</strong>. My academic interests lie in <em>Machine Learning</em>, <em>Federated Learning</em>, <em>Optimization</em>, and <em>Communication Systems</em>.
+  Hello, I'm <em>Ziyu (Zeno) XIE<em>, currently a Ph.D. student at <strong>The Chinese University of Hong Kong (CUHK)</strong>, majoring in Information Engineering (IE). My academic interests lie in <em>Communication System</em>, <em>Machine Learning</em>, and <em>Artificial Intelligence</em>. I obtained my B.Eng. degree from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) in August 2025.
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
@@ -122,24 +122,24 @@ competitions:
 
 
 researching_experience:
-- name: ERG4901 SSE Capstone Project
-  dept: The Chinese University of Hong Kong, Shenzhen
+- name: "MSFC: Flight Route Coverage Algorithm Based on Mean Shift Clustering"
+  dept: ERG4901 SSE Capstone Project - The Chinese University of Hong Kong, Shenzhen
   date: Sep. 2024 - Dec. 2024
   logo: /assets/images/badges/cuhk-log-u.png
   positions: 
-  - position: "Topic: '<strong>Coverage Analysis for Ground to Air Communications in 5G.</strong>' "
-- name: ERG2081 Independent Study Project
-  dept: The Chinese University of Hong Kong, Shenzhen
-  date: Sep. 2023 - Dec. 2023
+  - position: "The 5G network communications have attracted widespread attention from the society due to their wide coverage and low latency. However, providing stable aerial coverage for high-speed wireless communications remains a challenge. A key issue in this field is the coverage problem of 5G networks, which is very important for system performance and user experience. Current strategies mainly emphasize ground network coverage, while paying insufficient attention to aerial signal coverage. This paper addresses this gap by focusing on the challenge of aerial signal coverage, especially along specific flight routes. In environments with fixed base station locations and variable flight route missions, such as drone route missions, ensuring sufficient signal strength along the flight route is critical for stable communication. This study introduces a flight route coverage algorithm based on mean shift clustering (MSFC), which optimizes base station beam configuration using mean shift to enhance flight route coverage while minimizing energy consumption. Our results show that the MSFC algorithm significantly improves the minimum signal strength on a specified route compared to the scenario without algorithm intervention. Future algorithm enhancement strategies are also discussed."
+# - name: 
+#   dept: ERG2081 Independent Study Project - The Chinese University of Hong Kong, Shenzhen
+#   date: Sep. 2023 - Dec. 2023
+#   logo: /assets/images/badges/cuhk-log-u.png
+#   positions:
+#   - position: 'Topic: "<strong>Implementing a federated learning frame with a Block Coordinate Descent (BCD) optimizer.</strong>" Reduced communication costs by integrating the BCD algorithm into the update process of federated learning. Conducted a comparative analysis of the BCD algorithm versus the traditional FedAvg algorithm.'
+- name: Impacts of Parasitic Effects on PCM-based Neuromorphic Circuits Under Advanced Technology Nodes
+  dept: Research Assistant - The Chinese University of Hong Kong, Shenzhen
+  date: Jun. 2022 - Mar. 2024
   logo: /assets/images/badges/cuhk-log-u.png
   positions:
-  - position: 'Topic: "<strong>Implementing a federated learning frame with a Block Coordinate Descent (BCD) optimizer.</strong>" Reduced communication costs by integrating the BCD algorithm into the update process of federated learning. Conducted a comparative analysis of the BCD algorithm versus the traditional FedAvg algorithm.'
-- name: Undergraduate Research Assistant
-  dept: The Chinese University of Hong Kong, Shenzhen
-  date: Jun. 2022 - Aug. 2022
-  logo: /assets/images/badges/cuhk-log-u.png
-  positions:
-  - position: 'Topic: "<strong>Studying the impact of parasitic capacitance on phase-change-memory based neuromorphic circuits.</strong>" Analyzed the effects of parasitic capacitance on synaptic firing and weight updating. Estimated bitline load adhering to the design constraints derived from parasitic capacitance effects.'
+  - position: 'The limit of Parasitic Effects in terms of number of synapses is estimated for phase-change-memory based neuromorphic circuit under scaling technology nodes following ITRS. Parasitic capacitance components are evaluated for a 55nm process and extrapolated to other nodes. A memory compact model is used to study the effects of the capacitance on firing and weight updating in synapses, which provides design constraint for posterior bitline load estimation. The estimated maximum number of synapses indicate decreasing bitline load capacity due to intensified impact of parasitic capacitance along scaling feature size. The proposed estimation methodology is applicable to advanced nodes to provide quick evaluation for neuromorphic circuit design.'
 
 working_experience:
 - name: OSA Student Journalists Association
@@ -154,7 +154,7 @@ working_experience:
   positions:
   - position: <strong>Preceptor</strong> for CSC1002 (Python Laboratory)
     date: Jan. 2024 - May. 2024
-  - position:  <strong>Preceptor</strong> for CSC1001 (Intro. to Python)
+  - position:  <strong>Preceptor</strong> for CSC1001 (Intro. to Programming Methodology
     date: Sep. 2023 - Dec. 2023
 - name: Undergraduate Student Teaching Fellows
   dept: The Chinese University of Hong Kong, Shenzhen
