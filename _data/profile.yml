@@ -1,4 +1,4 @@
-primary_name: "Ziyu (Zeno) XIE"
+primary_name: "Ziyu XIE"
 secondary_name: ""
 navbar_name: "Ziyu XIE"
 
@@ -15,11 +15,11 @@ github: KikaXiaoYu
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+linkedin: ziyu-xie-0433a8380
 orcid: 0009-0002-3920-3932
 
 short_bio: >-
-  Hello, I'm <em>Ziyu (Zeno) XIE<em>, currently a Ph.D. student at <strong>The Chinese University of Hong Kong (CUHK)</strong>, majoring in Information Engineering (IE). My academic interests lie in <em>Communication System</em>, <em>Machine Learning</em>, and <em>Artificial Intelligence</em>. I obtained my B.Eng. degree from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) in August 2025.
+  Hello, I'm <em>Ziyu (Zeno) XIE</em>, currently a Ph.D. student at <strong>The Chinese University of Hong Kong (CUHK)</strong>, majoring in Information Engineering (IE). My academic interests lie in <em>Communication System</em>, <em>Machine Learning</em>, and <em>Artificial Intelligence</em>. I obtained my B.Eng. degree from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) in August 2025.
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
@@ -107,7 +107,7 @@ scholarships:
   - position: (2021-24) Muse College, Bowen II Scholarship
     date: Sep. 2021
 
-competitions:
+# competitions:
 - name: Competition Awards
   positions:
   - position: "(2024 USA) Mathematical Contest In Modeling (MCM), <strong>Honorable Mention</strong>, <em>The Consortium for Mathematics and Its Applications (COMAP)</em>"
@@ -127,7 +127,7 @@ researching_experience:
   date: Sep. 2024 - Dec. 2024
   logo: /assets/images/badges/cuhk-log-u.png
   positions: 
-  - position: "The 5G network communications have attracted widespread attention from the society due to their wide coverage and low latency. However, providing stable aerial coverage for high-speed wireless communications remains a challenge. A key issue in this field is the coverage problem of 5G networks, which is very important for system performance and user experience. Current strategies mainly emphasize ground network coverage, while paying insufficient attention to aerial signal coverage. This paper addresses this gap by focusing on the challenge of aerial signal coverage, especially along specific flight routes. In environments with fixed base station locations and variable flight route missions, such as drone route missions, ensuring sufficient signal strength along the flight route is critical for stable communication. This study introduces a flight route coverage algorithm based on mean shift clustering (MSFC), which optimizes base station beam configuration using mean shift to enhance flight route coverage while minimizing energy consumption. Our results show that the MSFC algorithm significantly improves the minimum signal strength on a specified route compared to the scenario without algorithm intervention. Future algorithm enhancement strategies are also discussed."
+  - position: "Developed a mean shift clustering-based algorithm to optimize 5G base station beam configurations, significantly enhancing aerial signal coverage along specified flight routes while reducing energy consumption."
 # - name: 
 #   dept: ERG2081 Independent Study Project - The Chinese University of Hong Kong, Shenzhen
 #   date: Sep. 2023 - Dec. 2023
@@ -139,7 +139,13 @@ researching_experience:
   date: Jun. 2022 - Mar. 2024
   logo: /assets/images/badges/cuhk-log-u.png
   positions:
-  - position: 'The limit of Parasitic Effects in terms of number of synapses is estimated for phase-change-memory based neuromorphic circuit under scaling technology nodes following ITRS. Parasitic capacitance components are evaluated for a 55nm process and extrapolated to other nodes. A memory compact model is used to study the effects of the capacitance on firing and weight updating in synapses, which provides design constraint for posterior bitline load estimation. The estimated maximum number of synapses indicate decreasing bitline load capacity due to intensified impact of parasitic capacitance along scaling feature size. The proposed estimation methodology is applicable to advanced nodes to provide quick evaluation for neuromorphic circuit design.'
+    - position: "Estimated and analyzed the impact of parasitic capacitance on the maximum number of synapses in PCM-based neuromorphic circuits under advanced technology node scaling, proposing a methodology for rapid design evaluation."
+  # - position: 'Estimated the limit of parasitic effects on the maximum number of synapses in phase-change memory (PCM)-based neuromorphic circuits under technology node scaling based on ITRS guidelines.'
+  # - position: 'Evaluated parasitic capacitance components for a 55nm process and extrapolated the results to other advanced nodes.'
+  # - position: 'Used a compact memory model to analyze the impact of parasitic capacitance on synaptic firing and weight updating, providing design constraints for subsequent bitline load estimation.'
+  # - position: 'Results indicate that as feature sizes scale down, increased parasitic capacitance reduces bitline load capacity, limiting the maximum number of synapses.'
+  # - position: 'The proposed estimation methodology is applicable to advanced technology nodes, offering a quick evaluation tool for neuromorphic circuit design.'
+
 
 working_experience:
 - name: OSA Student Journalists Association
