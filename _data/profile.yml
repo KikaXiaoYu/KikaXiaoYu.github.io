@@ -19,7 +19,7 @@ linkedin: ziyu-xie-0433a8380
 orcid: 0009-0002-3920-3932
 
 short_bio: >-
-  Hello, I'm <em>Ziyu (Zeno) XIE</em>, currently a Ph.D. student at <strong>The Chinese University of Hong Kong (CUHK)</strong>, majoring in Information Engineering (IE). My academic interests lie in <em>Communication System</em>, <em>Machine Learning</em>, and <em>Artificial Intelligence</em>. I obtained my B.Eng. degree from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) in August 2025.
+  Hello, I'm <em>Ziyu (Zeno) XIE</em>, currently a Ph.D. student at <strong>The Chinese University of Hong Kong (CUHK)</strong>, majoring in Information Engineering (IE). I obtained my B.Eng. degree from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) in August 2025. My academic interests lie in <em>Communication System</em>, <em>Machine Learning</em>, and <em>Artificial Intelligence</em>.
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
@@ -80,22 +80,22 @@ scholarships:
     date: Apr. 2025
   - position: "(2023-24) CUHKSZ, Excellent Student Award"
     date: Jan. 2025
+  - position: "(2023-24) Master's List Award of Muse College: Whole-Person Development Star - Gold Prize"
+    date: Nov. 2024
+  # - position: "(2022-23) CUHKSZ, Excellent Student Award"
+  #   date: Jan. 2024
+  # - position: "(2024-25) SSE, Dean's List Award"
+  #   date: Sep. 2025
+  # - position: "(2023-24) SSE, Dean's List Award"
+  #   date: Sep. 2024
+  # - position: "(2022-23) SSE, Dean's List Award"
+  #   date: Sep. 2023
+  # - position: "(2021-22) SSE, Dean's List Award"
+  #   date: Sep. 2022
   - position: "(2023-24) CUHKSZ, Campus Promotion Talent Award"
     date: Nov. 2024
   - position: "(2023-24) SDS, Excellent USTF Award, 2nd Class"
     date: Nov. 2024
-  - position: "(2023-24) MLA: Whole-Person Development Star - Gold"
-    date: Nov. 2024
-  # - position: (2023-24) CUHKSZ, Excellent Student Award
-  #   date: Jan. 2025 (expected)
-  - position: (2023-24) SSE, Dean's List Award
-    date: Sep. 2024
-  - position: (2022-23) CUHKSZ, Excellent Student Award
-    date: Jan. 2024
-  - position: (2022-23) SSE, Dean's List Award
-    date: Sep. 2023
-  - position: (2021-22) SSE, Dean's List Award
-    date: Sep. 2022
 - name: Scholarships
   positions:
   - position: (2023-24) SSE, AP Scholarship, Class B
@@ -108,17 +108,17 @@ scholarships:
     date: Sep. 2021
 
 # competitions:
-- name: Competition Awards
-  positions:
-  - position: "(2024 USA) Mathematical Contest In Modeling (MCM), <strong>Honorable Mention</strong>, <em>The Consortium for Mathematics and Its Applications (COMAP)</em>"
-#    // <2024年美國大學生數學建模競賽, H獎, [美國數學及其應用聯合會]>"
-    date: May. 2024
-  - position: "(2022) MathorCup Undergraduate Mathematical Modeling Challenge, <strong>Second Prize</strong>, <em>Chinese Society of Optimization, Overall Planning and Economic Mathematics</em>"
-#    // <2022年MathorCup高校數學建模挑戰賽, 二等獎, [中國優選法統籌法與經濟數學研究會]>"
-    date: Mar. 2023
-  - position: "(2022) China Undergraduate Mathematical Contest in Modeling, Guangdong Provincial Contest, <strong>Third Prize</strong>, <em>China Society for Industrial and Applied Mathematics (CSIAM)</em>" 
-#   // <2022年全國大學生數學建模競賽, 廣東省分賽, 三等獎, [中國工業與應用數學學會]>"
-    date: Mar. 2023
+# - name: Competition Awards
+#   positions:
+#   - position: "(2024 USA) Mathematical Contest In Modeling (MCM), <strong>Honorable Mention</strong>, <em>The Consortium for Mathematics and Its Applications (COMAP)</em>"
+# #    // <2024年美國大學生數學建模競賽, H獎, [美國數學及其應用聯合會]>"
+#     date: May. 2024
+#   - position: "(2022) MathorCup Undergraduate Mathematical Modeling Challenge, <strong>Second Prize</strong>, <em>Chinese Society of Optimization, Overall Planning and Economic Mathematics</em>"
+# #    // <2022年MathorCup高校數學建模挑戰賽, 二等獎, [中國優選法統籌法與經濟數學研究會]>"
+#     date: Mar. 2023
+#   - position: "(2022) China Undergraduate Mathematical Contest in Modeling, Guangdong Provincial Contest, <strong>Third Prize</strong>, <em>China Society for Industrial and Applied Mathematics (CSIAM)</em>" 
+# #   // <2022年全國大學生數學建模競賽, 廣東省分賽, 三等獎, [中國工業與應用數學學會]>"
+#     date: Mar. 2023
 
 
 researching_experience:
@@ -148,20 +148,12 @@ researching_experience:
 
 
 working_experience:
-- name: OSA Student Journalists Association
-  dept: The Chinese University of Hong Kong, Shenzhen
+- name: Postgraduate Teaching Assistant
+  dept: The Chinese University of Hong Kong
   logo: /assets/images/badges/cuhk-log-u.png
   positions:
-  - position: <strong>Executive Editor</strong> of Website Operations Group
-    date: Sep. 2021 - May. 2025
-- name: SSE Student Help Room Preceptor
-  dept: The Chinese University of Hong Kong, Shenzhen
-  logo: /assets/images/badges/cuhk-log-u.png
-  positions:
-  - position: <strong>Preceptor</strong> for CSC1002 (Python Laboratory)
-    date: Jan. 2024 - May. 2024
-  - position:  <strong>Preceptor</strong> for CSC1001 (Intro. to Programming Methodology
-    date: Sep. 2023 - Dec. 2023
+  - position: <strong>Teaching Assistant</strong>, ENGG1110E (Problem Solving by Programming)
+    date: Sep. 2025 - Present
 - name: Undergraduate Student Teaching Fellows
   dept: The Chinese University of Hong Kong, Shenzhen
   logo: /assets/images/badges/cuhk-log-u.png
@@ -174,6 +166,30 @@ working_experience:
     date: Sep. 2023 - Dec. 2023
   - position: <strong>Teaching Assistant</strong>, MAT1008 (Advanced Mathematics)
     date: Sep. 2022 - Dec. 2022
+
+- name: SSE Student Help Room Preceptor
+  dept: School of Science and Engineering - The Chinese University of Hong Kong, Shenzhen
+  logo: /assets/images/badges/cuhk-log-u.png
+  positions:
+  - position: <strong>Preceptor</strong> for CSC1002 (Python Laboratory)
+    date: Jan. 2024 - May. 2024
+  - position:  <strong>Preceptor</strong> for CSC1001 (Introduction to Programming Methodology)
+    date: Sep. 2023 - Dec. 2023
+
+    
+- name: OSA Student Journalists Association
+  dept: Office of Student Affairs - The Chinese University of Hong Kong, Shenzhen
+  logo: /assets/images/badges/cuhk-log-u.png
+  positions:
+  - position: <strong>Executive Editor</strong> of Website Operations Group
+    date: Sep. 2023 - May. 2025
+  - position: <strong>Senior Editor</strong> of Website Operations Group
+    date: Sep. 2022 - Aug. 2023
+  - position: <strong>Art Editor</strong> and <strong>Website Operator</strong> of Website Operations Group
+    date: Sep. 2021 - Aug. 2022
+
+    
+
 
 
 
