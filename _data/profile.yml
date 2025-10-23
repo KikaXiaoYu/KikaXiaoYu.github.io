@@ -115,7 +115,7 @@ scholarships:
   - position: Muse College, Bowen II Scholarship
     date: Sep. 2021
 
-competitions:
+# competitions:
 - name: Competition Awards
   positions:
   - position: "(2024 USA) Mathematical Contest In Modeling (MCM), <strong>Honorable Mention</strong>, <em>The Consortium for Mathematics and Its Applications (COMAP)</em>"
@@ -123,7 +123,7 @@ competitions:
     date: May. 2024
   - position: "(2022) MathorCup Undergraduate Mathematical Modeling Challenge, <strong>Second Prize</strong>, <em>Chinese Society of Optimization, Overall Planning and Economic Mathematics</em>"
 #    // <2022年MathorCup高校數學建模挑戰賽, 二等獎, [中國優選法統籌法與經濟數學研究會]>"
-#     date: Mar. 2023
+    date: Mar. 2023
 #   - position: "(2022) China Undergraduate Mathematical Contest in Modeling, Guangdong Provincial Contest, <strong>Third Prize</strong>, <em>China Society for Industrial and Applied Mathematics (CSIAM)</em>" 
 # #   // <2022年全國大學生數學建模競賽, 廣東省分賽, 三等獎, [中國工業與應用數學學會]>"
 #     date: Mar. 2023
