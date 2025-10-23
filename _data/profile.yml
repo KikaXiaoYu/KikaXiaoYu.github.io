@@ -74,37 +74,45 @@ scholarships:
   
 - name: Honors
   positions:
-  - position: "(2024-25) 2025 SSE Dean's Award for Outstanding Students"
-    date: May. 2025
-  - position: "(2024-25) 2025 Outstanding Graduates Award of Muse College"
+  - position: "2025 Outstanding Graduates Award of Muse College"
     date: Apr. 2025
-  - position: "(2023-24) CUHKSZ, Excellent Student Award"
-    date: Jan. 2025
-  - position: "(2023-24) Master's List Award of Muse College: Whole-Person Development Star - Gold Prize"
+  - position: "2025 SSE Dean's Award for Outstanding Graduates"
+    date: May. 2025
+  - position: "Master's List Award of Muse College: Whole-Person Development Star - Gold Prize"
     date: Nov. 2024
-  # - position: "(2022-23) CUHKSZ, Excellent Student Award"
-  #   date: Jan. 2024
-  # - position: "(2024-25) SSE, Dean's List Award"
-  #   date: Sep. 2025
+  - position: "CUHKSZ, Excellent Student Award in 2024"
+    date: Jan. 2025
+  - position: "CUHKSZ, Excellent Student Award in 2023"
+    date: Jan. 2024
+  - position: "SSE, Dean's List Award in 2024-25"
+    date: Sep. 2025
+  - position: "SSE, Dean's List Award in 2023-24"
+    date: Sep. 2024
+  - position: "SSE, Dean's List Award in 2022-23"
+    date: Sep. 2023
+  - position: "SSE, Dean's List Award in 2021-22"
+    date: Sep. 2022
   # - position: "(2023-24) SSE, Dean's List Award"
   #   date: Sep. 2024
   # - position: "(2022-23) SSE, Dean's List Award"
   #   date: Sep. 2023
   # - position: "(2021-22) SSE, Dean's List Award"
   #   date: Sep. 2022
-  - position: "(2023-24) CUHKSZ, Campus Promotion Talent Award"
+  - position: "CUHKSZ, Campus Promotion Talent Award"
     date: Nov. 2024
-  - position: "(2023-24) SDS, Excellent USTF Award, 2nd Class"
+  - position: "SDS, Excellent USTF Award, 2nd Class"
     date: Nov. 2024
 - name: Scholarships
   positions:
-  - position: (2023-24) SSE, AP Scholarship, Class B
+  - position: CUHK Postgraduate Studentship Award (HK$19,100 per month)
+    date: May. 2025
+  - position: SSE, AP Scholarship, Class B (¥40,000)
     date: Dec. 2024
-  - position: (2022-23) SSE, AP Scholarship, Class C
+  - position: SSE, AP Scholarship, Class C (¥20,000)
     date: Dec. 2023
-  - position: (2021-22) SSE, AP Scholarship, Class C
+  - position: SSE, AP Scholarship, Class C (¥20,000)
     date: Dec. 2022
-  - position: (2021-24) Muse College, Bowen II Scholarship
+  - position: Muse College, Bowen II Scholarship (¥30,000 per year for 4 years)
     date: Sep. 2021
 
 # competitions:
